@@ -1,5 +1,4 @@
-# Criando um Banco Digital com Java e Orientação a Objetos 
+# Criando um Banco Digital com Java e Orientação a Objetos
 Desafio de projeto do Bootcamp GFT Start Java da [Digital Innovation One](https://digitalinnovation.one/).
-<h2> Sobre </h2>
-<p>O projeto simula um banco digital, com funcionalidades para saque, depósito e transferência nas modalidades de conta poupança e conta corrente. Para essa aplicação, foram utilizados conhecimentos em Programação Orientada a Objetos (POO).</p>
-
+## Sobre
+O projeto simula um banco digital, com funcionalidades para saque, depósito, transferência e extrato bancário nas modalidades de conta poupança e conta corrente. Para essa aplicação, foram utilizados conhecimentos em Programação Orientada a Objetos (POO) - abstração, encapsulamento, herança e polimorfismo. Além do que foi proposto no desafio, também realizei a implementação de taxas para sacar e transferir e rendimento na conta poupança de 0.5% do valor do saldo. Também adicionei a funcionalidade de doação, que não sofre com taxas. Outra implementação foi uma mensagem que solicita uma avaliação de 1 a 10 após imprimir o extrato bancário. Finalmente, adicionei uma validação para permitir doação, saque e transferência apenas se houver saldo na conta, do contrário, ocorre uma mensagem de saldo insuficiente.
